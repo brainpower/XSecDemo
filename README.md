@@ -10,9 +10,9 @@ Build
 
 Configure the cmake project and make:
 
-$ mkdir build && cd build
-$ cmake ..
-$ make
+    $ mkdir build && cd build
+    $ cmake ..
+    $ make
 
 
 Dependencies
