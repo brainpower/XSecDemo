@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/kxmlgui5/xsecdemo">
+        <file>xsecdemoui.rc</file>
+    </qresource>
+</RCC>
